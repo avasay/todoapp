@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "TaskManagerPWA",
   "resources": {
-    "hash": "sha256-kc3iHGTyeabSg4vOeqYf/hNk4cuLg2OdU8p+skSvZso=",
+    "hash": "sha256-8tvq90ZkO4JgxYwJwOfAaMC0g/f5SlxTkyUB+Aimpi4=",
     "jsModuleNative": {
       "dotnet.native.8.0.10.yatax25khq.js": "sha256-QVxMlY7ohmjgde/bZMA0dlWDAeuUP+tEfkiSdg4DFcE="
     },
@@ -57,7 +57,7 @@
       "System.Text.Json.wasm": "sha256-t7+L3d+/eVRuF68RLeAtIgj/tzwoGOOCpgFl1o3Ijyg=",
       "System.Text.RegularExpressions.wasm": "sha256-jOXHeQGxYgoiX8kfuXmM8pdDxV74D+IHq+znvu9UKmA=",
       "System.wasm": "sha256-sH9OCj7JF+EjOteWJIPR1TDeb2POsT3uyJpKHPmvz2A=",
-      "TaskManagerPWA.wasm": "sha256-sOO4m4Q858r8qsqGfN1hjIu0uP0UtkZhLeD7Z527twQ="
+      "TaskManagerPWA.wasm": "sha256-v9kjbYxzResSr+FqSioAKypTjCRCNK+GufJDXB+qABA="
     }
   },
   "cacheBootResources": true,
